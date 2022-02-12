@@ -1,0 +1,15 @@
+F:\tip dönüşümü\tip-d-n-s-mleri\bin\Debug\net6.0\tip-d-n-s-mleri.exe
+F:\tip dönüşümü\tip-d-n-s-mleri\bin\Debug\net6.0\tip-d-n-s-mleri.deps.json
+F:\tip dönüşümü\tip-d-n-s-mleri\bin\Debug\net6.0\tip-d-n-s-mleri.runtimeconfig.json
+F:\tip dönüşümü\tip-d-n-s-mleri\bin\Debug\net6.0\tip-d-n-s-mleri.dll
+F:\tip dönüşümü\tip-d-n-s-mleri\bin\Debug\net6.0\ref\tip-d-n-s-mleri.dll
+F:\tip dönüşümü\tip-d-n-s-mleri\bin\Debug\net6.0\tip-d-n-s-mleri.pdb
+F:\tip dönüşümü\tip-d-n-s-mleri\obj\Debug\net6.0\tip-d-n-s-mleri.csproj.AssemblyReference.cache
+F:\tip dönüşümü\tip-d-n-s-mleri\obj\Debug\net6.0\tip-d-n-s-mleri.GeneratedMSBuildEditorConfig.editorconfig
+F:\tip dönüşümü\tip-d-n-s-mleri\obj\Debug\net6.0\tip-d-n-s-mleri.AssemblyInfoInputs.cache
+F:\tip dönüşümü\tip-d-n-s-mleri\obj\Debug\net6.0\tip-d-n-s-mleri.AssemblyInfo.cs
+F:\tip dönüşümü\tip-d-n-s-mleri\obj\Debug\net6.0\tip-d-n-s-mleri.csproj.CoreCompileInputs.cache
+F:\tip dönüşümü\tip-d-n-s-mleri\obj\Debug\net6.0\tip-d-n-s-mleri.dll
+F:\tip dönüşümü\tip-d-n-s-mleri\obj\Debug\net6.0\ref\tip-d-n-s-mleri.dll
+F:\tip dönüşümü\tip-d-n-s-mleri\obj\Debug\net6.0\tip-d-n-s-mleri.pdb
+F:\tip dönüşümü\tip-d-n-s-mleri\obj\Debug\net6.0\tip-d-n-s-mleri.genruntimeconfig.cache
