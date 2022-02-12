@@ -46,26 +46,28 @@ namespace MyApp // Note: actual namespace depends on the project name.
              Console.WriteLine("zz:"+ zz);
             
             //System.Convert
- Console.WriteLine("*****System.Convert*****");
- string s1 = "10",  s2="20";
- int sayi1,   sayi2;
- int Toplam;
+      Console.WriteLine("*****System.Convert*****");
+      string s1 = "10",  s2="20";
+      int sayi1,   sayi2;
+     int Toplam;
 
- sayi1= Convert.ToInt32(s1);
-  sayi2= Convert.ToInt32(s2);
+     sayi1= Convert.ToInt32(s1);
+     sayi2= Convert.ToInt32(s2);
 
-  Toplam = sayi1 + sayi2;
-   Console.WriteLine("toplam:"+ Toplam);
+      Toplam = sayi1 + sayi2;
+     Console.WriteLine("toplam:"+ Toplam);
   
-   //Parese
-    Console.WriteLine("*****Parse*****");
-    ParseMethod();
+     //Parese
+     Console.WriteLine("*****Parse*****");
+     ParseMethod();
 
-}
-public static void ParseMethod()
+    }
+    public static void ParseMethod()
 {
+
+
     string metin1 = "10";
-    string metin2  = "10.25";
+    string metin2  = "10,25";
     int rakam1;
     double double1;
     rakam1 = Int32.Parse(metin1);
@@ -74,12 +76,7 @@ public static void ParseMethod()
      Console.WriteLine("double1:"+ double1);
 
 
-
-   }
-   
-   
-   
-
-
  }
+    }
+
 }
